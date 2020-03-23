@@ -7,4 +7,4 @@ function
 ============
 
 
-roundup :doc:`roundup.py <index>`。
+roundup :doc:`./roundup.py`
