@@ -6,5 +6,4 @@ some tools by python
 function
 ============
 
-
-roundup :doc:`./roundup.py`
+`roundup` --- round up a int just like excel roundup
